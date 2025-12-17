@@ -14,8 +14,8 @@ Analysed a dataset of 1,400 employees to determine key factors contributing to a
 3.  **Department Risk:** The R&D department faces the highest volume of turnover.
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](upload_your_image_here.png)
-*(Upload your Power BI screenshot to the repo and link it here)*
+<img width="1050" height="598" alt="image" src="https://github.com/user-attachments/assets/4d5617c7-7b3a-49a0-be0b-595c257c3df2" />
+
 
 ## 📄 SQL Queries
 Check the `analysis.sql` file to see how metrics were calculated.
